@@ -1,5 +1,5 @@
-plugins
-=======
+eSprinkle Plugins
+=================
 
 Get plugins like menus, sliders, image galleries and more for your websites
 
